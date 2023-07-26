@@ -6,3 +6,6 @@ Códigos úteis para WP
 
 ## - Renomear nome do item "Posts" do menu no painel admin
 :: rename-menu-posts.php
+
+## - Adicionar widget no dashboard do painel admin
+:: add_dashboard_widget.php

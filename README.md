@@ -9,3 +9,6 @@ Códigos úteis para WP
 
 ## - Adicionar widget no dashboard do painel admin
 :: add_dashboard_widget.php
+
+## - Adicionando autocomplete na busca
+:: autocomplete-search.php

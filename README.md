@@ -15,3 +15,6 @@ Códigos úteis para WP
 
 ## - Filtro de busca por taxonomia (categorias, tags e autores) e intervalo de datas (data de publicação)
 :: search-filter.php
+
+## - Filtro de busca por taxonomia (categorias, tags e autores) e intervalo de datas, com carregamento via AJAX
+:: search-filter-handler.php

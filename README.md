@@ -18,3 +18,6 @@ Códigos úteis para WP
 
 ## - Filtro de busca por taxonomia (categorias, tags e autores) e intervalo de datas, com carregamento via AJAX
 :: search-filter-handler.php
+
+## - Insere um metadado no formato selectbox com lista de pdf da biblioteca de mídia para ser vinculado ao post
+:: metabox-insert-pdf.php

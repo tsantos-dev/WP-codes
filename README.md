@@ -21,3 +21,6 @@ Códigos úteis para WP
 
 ## - Insere um metadado no formato selectbox com lista de pdf da biblioteca de mídia para ser vinculado ao post
 :: metabox-insert-pdf.php
+
+## Insere um metabox com input do tipo data (calendário html5) para definir a data de determinado evento/publicação
+:: date-meta.php
